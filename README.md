@@ -19,7 +19,3 @@ Análisis de métricas: Evaluación del rendimiento de los modelos utilizando m�
 ### Motivación del proyecto
 
 Este proyecto fue desarrollado para explorar cómo las técnicas de NLP y machine learning pueden ayudar en la identificación de señales de estrés en el lenguaje escrito. Aplicaciones como esta pueden ser útiles en la monitorización de la salud mental, tanto en entornos laborales como en investigaciones clínicas.
-
-### Contacto
-- Mail: valemicolgarcia@gmail.com
-- LinkedIn: [Valeria Micol Garcia](https://www.linkedin.com/in/valeria-micol-garcia-72a653267/)
